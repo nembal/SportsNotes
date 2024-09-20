@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Team Offsite",
+    "date": "2024-03-15",
+    "note": "Discuss quarterly goals"
+  },
+  {
+    "id": 2,
+    "title": "Product Launch",
+    "date": "2024-03-20",
+    "note": "Finalize marketing campaign"
+  },
+  {
+    "id": 3,
+    "title": "Company Retreat",
+    "date": "2024-03-25",
+    "note": "Team building activities"
+  }
+]
